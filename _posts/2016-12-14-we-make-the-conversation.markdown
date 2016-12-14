@@ -5,6 +5,7 @@ subtitle:   "A Conversation on Myles Horton and Paulo Freire"
 date:       2016-12-14 08:00:00
 author:     "Amy Collier and Adam Croom"
 header-img: "img/levine.jpg"
+comments: true
 ---
 <small>*Note: Below is the transcript of a conversation between [Amy Collier](http://redpincushion.me) and [Adam Croom](http://adamcroom.com) that took place on December 12, 2016. Both are involved in an online book club organized by [Bryan Alexander](https://bryanalexander.org/2016/11/18/the-plan-for-reading-_we-make-the-road-by-walking_/) on the book We Make the Road By Walking by Myles Horton and Paulo Freire. The objective was to have a conversation and release it in a similar conversational style as the book.*</small>
 
