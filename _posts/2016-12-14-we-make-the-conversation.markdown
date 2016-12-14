@@ -125,6 +125,6 @@ AMY: I think that is a great place to end. That was really well done.
 
 ADAM: That’s great. Okay, I’ll stop.
 
-<center><i>Want to add your own conversation to this blog? Make a <a href="https://github.com/HortonFreire/hortonfreire.github.io/pulls"><u>pull request</u></a>.</i></center>
-
 <small>Featured image is a <a title="#HortonFreire Progress" href="https://flickr.com/photos/cogdog/31330454792">flickr photo</a> shared by <a href="https://flickr.com/people/cogdog">cogdogblog</a> under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain Dedication Creative Commons ( CC0 ) license</a> </small>
+
+<center><i>Want to add your own conversation to this blog? Make a <a href="https://github.com/HortonFreire/hortonfreire.github.io/pulls"><u>pull request</u></a>.</i></center>
