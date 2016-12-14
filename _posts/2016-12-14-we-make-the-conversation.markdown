@@ -13,9 +13,9 @@ AMY: I know Bryan has done this before. Why did this book hit big? What about th
 
 ADAM: I like that. Well then how about this: why did you do this?
 
-AMY: I did it primarily because it’s a book that [Allison Salisbury](https://twitter.com/amdulin) had read before and she had spoken highly of it. In particular she said it was highly influential in her approach to her work and I find Allison to be intriguing and she has great ideas so I thought that this is someone who I respect and she is part of a professional circle I respect, so it would be worth trying. I had never done anything like this before.
+AMY: I did it primarily because it’s a book that [Allison Salisbury](https://twitter.com/amdulin) had read before and she had spoken highly of it. In particular she said it was highly influential in her approach to her work and I find Allison to be intriguing and she has great ideas so I thought that this is someone who I respect and she is part of a professional circle I respect, so it would be worth trying.
 
-I had seen Bryan do a few of these books before and I kind of watched from afar but didn’t really feel motivated to join. But it was the perfect confluence of a book I was really interested in--Paulo Freire is someone I’ll always read--and the people involved. I’ve even started meeting people I didn’t know and I appreciate that as well, as it exposed me to more voices than I would have normally would have had. So it’s been really cool. How about you?
+I had never done anything like this before. I had seen Bryan do a few of these books before and I kind of watched from afar but didn’t really feel motivated to join. But it was the perfect confluence of a book I was really interested in--Paulo Freire is someone I’ll always read--and the people involved. I’ve even started meeting people I didn’t know and I appreciate that as well, as it exposed me to more voices than I would have normally would have had. So it’s been really cool. How about you?
 
 ADAM: Similarly, Allison turned me onto it and mentioned that a few people were doing it and I don’t know if I ever actually formally agreed to it. I just kind of bought the book and I figured I would probably read a little bit of it, just enough to see if it was something I was interested in.
 
